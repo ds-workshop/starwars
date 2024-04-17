@@ -9,7 +9,7 @@ format:
 editor: source
 ---
 
-# sentiment analysis for star wars
+# Sentiment analysis for Star Wars
 
 
 ## data
@@ -156,6 +156,13 @@ starwars_sentiment |>
         filter(document == 'a new hope') |>
         filter(character == 'LEIA') |>
         plot_character_lines_with_sentiment()
+
+```
+
+```{r}
+
+# Give some love to hist
+hist(rnorm(300))
 
 ```
 
