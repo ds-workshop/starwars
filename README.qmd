@@ -159,3 +159,10 @@ starwars_sentiment |>
 
 ```
 
+```{r}
+
+# Give some love to hist
+hist(rnorm(300))
+
+```
+

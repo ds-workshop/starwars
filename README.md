@@ -72,7 +72,7 @@ starwars_sentiment |>
 
 <div>
 
-<div id="pftkwjjzne" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="efxpcvbmqk" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   &#10;  
 
 | document                | characters                              | dialogue                                                                                                                                                                                                                                                      | sentiment |
@@ -110,7 +110,7 @@ starwars_sentiment |>
 
 <div>
 
-<div id="xtgdgsupsd" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mtygkmpqrm" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   &#10;  
 
 | document                | characters                  | dialogue                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | sentiment |
@@ -178,3 +178,10 @@ starwars_sentiment |>
 ```
 
 ![](README_files/figure-commonmark/unnamed-chunk-8-1.png)
+
+``` r
+# Give some love to hist
+hist(rnorm(300))
+```
+
+![](README_files/figure-commonmark/unnamed-chunk-9-1.png)
