@@ -9,7 +9,7 @@ format:
 editor: source
 ---
 
-# sentiment analysis for star wars
+# Sentiment analysis for Star Wars
 
 
 ## data
