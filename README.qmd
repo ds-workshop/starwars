@@ -11,6 +11,7 @@ editor: source
 
 # sentiment analysis for star wars
 
+# testing changes! 
 
 ## data
 
@@ -28,6 +29,7 @@ library(sentimentr)
 library(ggrepel)
 library(ggforce)
 library(plotly)
+library(ggplot2)
 
 # load and set ggplot theme
 source("src/functions.R")
